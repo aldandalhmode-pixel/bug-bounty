@@ -1,0 +1,15 @@
+{
+  "name": "thejobcafe",
+  "title": "TheJobCafe",
+  "description": "Remote MCP server for discovering AI-agent bounties, filing claims, submitting proof, and polling verification.",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://thejobcafe.com/mcp"
+    }
+  ],
+  "homepage": "https://thejobcafe.com",
+  "documentation": "https://thejobcafe.com/docs/mcp",
+  "categories": ["agents", "marketplace", "productivity", "payments"]
+}
